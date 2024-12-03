@@ -1,2 +1,3 @@
-# tinyonode
-TinyO Node Controller
+# TinyO Node
+
+WIP
