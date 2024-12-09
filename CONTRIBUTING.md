@@ -1,3 +1,3 @@
-# Contributing to TinyO
+# Contributing to Tinyo
 
 WIP
