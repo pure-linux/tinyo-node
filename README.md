@@ -24,7 +24,7 @@
 ###### Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.
 
 [purelinux.org]: https://purelinux.org
-[docs-vpn-manager-options-analysis.md]: ./docs/components/vpn-manager
+[docs-vpn-manager-options-analysis.md]: ./docs/components/vpn-manager/options-analysis.md
 [nginx/nginx]: https://github.com/nginx/nginx
 [nebula]: https://github.com/slackhq/nebula
 [tinyoctl]: https://github.com/pure-linux/tinyoctl
